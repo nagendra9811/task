@@ -1,2 +1,4 @@
 My Name is Nagendra
 age : 24
+College : LPU
+Batch : CSE
